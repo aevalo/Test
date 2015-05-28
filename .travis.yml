@@ -7,7 +7,7 @@ jdk:
 notifications:
   irc:
     channels:
-      - "ircnet.eversible.com#aevalo"
+      - "chat.freenode.net#aevalo-test"
       #- "chat.freenode.net#some-other-channel"
     template:
       - "%{repository}#%{build_number} (%{branch} - %{commit} : %{author}): %{message}"
